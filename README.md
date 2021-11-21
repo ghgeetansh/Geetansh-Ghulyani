@@ -2,7 +2,7 @@
 
 ## Overview
 
-This webapp is used for breast cancer disease prediction and recommends it, if the patient NEEDS a doctor or NOT. 
+this is a web appliction which is used for brest cancer prediction. 
 
 
 
